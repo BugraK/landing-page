@@ -28,3 +28,8 @@ a {
     font-size: 18px;
     text-decoration: none;
 }
+
+.links {
+    display: flex;
+    gap: 24px;
+}
