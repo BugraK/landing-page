@@ -78,3 +78,27 @@ img {
     display: flex;
     gap: 64px;
 }
+
+.quote-section {
+    background-color: #E5E7EB;
+    color: #1F2937;
+    padding: 16px 128px;
+}
+
+.quote,.author {
+    margin: auto;
+    padding: 8px;
+}
+
+.quote {
+    width: 60%;
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.author {
+    width: 50%;
+    text-align: right;
+    font-weight: 900;
+}
