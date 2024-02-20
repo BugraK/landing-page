@@ -102,3 +102,8 @@ img {
     text-align: right;
     font-weight: 900;
 }
+
+.footer p {
+    text-align: center;
+    font-size: 14px;
+}
