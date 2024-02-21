@@ -107,3 +107,23 @@ img {
     text-align: center;
     font-size: 14px;
 }
+
+.call-to-action {
+    background-color: #3882F6;
+    margin: 64px auto;
+    padding: 16px 128px;
+    border-radius: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16px;
+}
+
+h3 {
+    color: #F9FAF8;
+}
+
+.call-to-action button {
+    border: 4px white solid;
+    padding: 8px 32px;
+}
