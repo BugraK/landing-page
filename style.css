@@ -16,7 +16,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    
+
 }
 
 .logo {
@@ -116,7 +116,7 @@ img {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    gap: 16px;
+    gap: 128px;
 }
 
 h3 {
